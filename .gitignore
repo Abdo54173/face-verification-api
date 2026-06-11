@@ -10,3 +10,6 @@
 /venv
 /verify.py
 /__pycache__
+Face_Verification_Deployment_Guide.pdf
+.vs
+NoteBooks/id_scratch_best.pth
